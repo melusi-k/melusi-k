@@ -2,7 +2,7 @@
 
 - 👀 interested in Awesome software products.
 - 🌱 currently building great things.
-- 💞️ looking to collaborate on small projects
+- 💬 looking to collaborate on small projects
 - 📫 melusi.l.k@gmail.com
 - 😄 Pronouns: he/him
 
