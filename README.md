@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👀 interested in Awesome software products.
+- 🌱 currently building great things.
+- 💞️ looking to collaborate on small projects
+- 📫 melusi.l.k@gmail.com
+- 😄 Pronouns: he/him
+
 <!--
 **melusi-k/melusi-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
